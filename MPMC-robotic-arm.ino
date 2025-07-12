@@ -1,3 +1,4 @@
+//code for ESP32 nad MPU6050
 #include <Wire.h>
 #include <ESP32Servo.h> 
 
