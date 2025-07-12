@@ -1,1 +1,1 @@
-# robotic-arm-project
+# hand-gesture-controlled-robotic-arm-project
